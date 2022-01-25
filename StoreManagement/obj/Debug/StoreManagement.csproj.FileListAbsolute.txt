@@ -1,0 +1,15 @@
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.UI.AddItems.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.UI.DashForm.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Form1.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Properties.Resources.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.GenerateResource.cache
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\bin\Debug\StoreManagement.pdb
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.UI.MakeBill.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.UI.updateItems.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.UI.removeItem.resources
+C:\Users\Tech Land\source\repos\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csprojAssemblyReference.cache

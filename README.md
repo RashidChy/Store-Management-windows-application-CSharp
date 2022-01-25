@@ -1,1 +1,1 @@
-# Store-Management-windows-application-CSharp
+# C-sharp-application-point-of-sales-
